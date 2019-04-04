@@ -52,13 +52,13 @@
                     <literalString
                       Id="031ab427-120b-4fdf-a4da-d850319538f2"
                       name="Lower"
-                      value="*" />
+                      value="1" />
                   </lowerValueInternal>
                   <upperValueInternal>
                     <literalString
                       Id="2129d14a-cd64-4db1-9552-e17a810aabb7"
                       name="Upper"
-                      value="*" />
+                      value="1" />
                   </upperValueInternal>
                 </memberEnd>
               </associationHasOwnedEnds>
@@ -308,13 +308,13 @@
                     <literalString
                       Id="72a3b8f5-b27d-4bca-8fe3-317175293f4b"
                       name="Lower"
-                      value="*" />
+                      value="1" />
                   </lowerValueInternal>
                   <upperValueInternal>
                     <literalString
                       Id="11f43496-8acb-4f5b-86d2-3b0883c76e11"
                       name="Upper"
-                      value="*" />
+                      value="1" />
                   </upperValueInternal>
                 </memberEnd>
               </associationHasOwnedEnds>
@@ -880,13 +880,13 @@
                     <literalString
                       Id="5a29cc24-7785-4205-8a90-48f5db953270"
                       name="Lower"
-                      value="*" />
+                      value="1" />
                   </lowerValueInternal>
                   <upperValueInternal>
                     <literalString
                       Id="fcb38e49-a57a-4ac7-904c-8418ac7cfdf2"
                       name="Upper"
-                      value="*" />
+                      value="1" />
                   </upperValueInternal>
                 </memberEnd>
               </associationHasOwnedEnds>

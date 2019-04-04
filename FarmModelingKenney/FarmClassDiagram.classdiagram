@@ -11,12 +11,12 @@
               <associationHasOwnedEnds>
                 <memberEnd Id="cfb9d0ff-66fb-44ec-88dc-d697e4eded8f" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
                   <lowerValueInternal>
-                    <literalString Id="3667929d-3eb6-46fc-bb8f-fb10e1a98d5c" name="Lower" value="*">
+                    <literalString Id="3667929d-3eb6-46fc-bb8f-fb10e1a98d5c" name="Lower" value="1">
                       <elementDefinition Id="031ab427-120b-4fdf-a4da-d850319538f2" />
                     </literalString>
                   </lowerValueInternal>
                   <upperValueInternal>
-                    <literalString Id="3433881a-9b6f-4586-a5bb-0c4501c5c124" name="Upper" value="*">
+                    <literalString Id="3433881a-9b6f-4586-a5bb-0c4501c5c124" name="Upper" value="1">
                       <elementDefinition Id="2129d14a-cd64-4db1-9552-e17a810aabb7" />
                     </literalString>
                   </upperValueInternal>
@@ -142,12 +142,12 @@
               <associationHasOwnedEnds>
                 <memberEnd Id="ad947692-ad38-448a-aa1c-627556649db4" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
                   <lowerValueInternal>
-                    <literalString Id="af0705f3-11b3-43b8-84cd-2142ecf5f59a" name="Lower" value="*">
+                    <literalString Id="af0705f3-11b3-43b8-84cd-2142ecf5f59a" name="Lower" value="1">
                       <elementDefinition Id="72a3b8f5-b27d-4bca-8fe3-317175293f4b" />
                     </literalString>
                   </lowerValueInternal>
                   <upperValueInternal>
-                    <literalString Id="4bd6c222-1558-4c97-a43c-71d5d05008d2" name="Upper" value="*">
+                    <literalString Id="4bd6c222-1558-4c97-a43c-71d5d05008d2" name="Upper" value="1">
                       <elementDefinition Id="11f43496-8acb-4f5b-86d2-3b0883c76e11" />
                     </literalString>
                   </upperValueInternal>
@@ -395,12 +395,12 @@
               <associationHasOwnedEnds>
                 <memberEnd Id="e4efe407-48eb-437b-8359-3eaca3915ffc" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
                   <lowerValueInternal>
-                    <literalString Id="e199f2b3-1b9b-47f6-9769-94b359c14390" name="Lower" value="*">
+                    <literalString Id="e199f2b3-1b9b-47f6-9769-94b359c14390" name="Lower" value="1">
                       <elementDefinition Id="5a29cc24-7785-4205-8a90-48f5db953270" />
                     </literalString>
                   </lowerValueInternal>
                   <upperValueInternal>
-                    <literalString Id="63413b30-4884-40c6-8726-8d0bf10f74e2" name="Upper" value="*">
+                    <literalString Id="63413b30-4884-40c6-8726-8d0bf10f74e2" name="Upper" value="1">
                       <elementDefinition Id="fcb38e49-a57a-4ac7-904c-8418ac7cfdf2" />
                     </literalString>
                   </upperValueInternal>
