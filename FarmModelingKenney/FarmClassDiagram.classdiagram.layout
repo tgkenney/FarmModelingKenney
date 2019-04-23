@@ -88,7 +88,7 @@
       </nodes>
     </associationConnector>
     <classShape Id="61ce0c80-413b-4bc2-8735-ca945d4eeee9" absoluteBounds="5.25, 0.625, 1.5, 1.7031249602635703" hideQualifiedName="false" increaseHeight="0" customColor="181, 193, 223">
-      <classMoniker Id="5691dae6-c2ca-4869-acc3-73efb0c75ca4" LastKnownName="Forcast" />
+      <classMoniker Id="5691dae6-c2ca-4869-acc3-73efb0c75ca4" LastKnownName="Forecast" />
       <nestedChildShapes>
         <AttributeElementListCompartment Id="cfd59836-1619-4230-9945-437d6151e065" absoluteBounds="5.2650000000000006, 1.0150000000000001, 1.4700000000000002, 1.0019530927141507" name="AttributesCompartment" titleTextColor="Black" itemTextColor="Black" />
         <OperationElementListCompartment Id="a3a99255-f43f-416b-95ff-291f8889ded3" absoluteBounds="5.2650000000000006, 2.0269530927141508, 1.4700000000000002, 0.20117186754941963" name="OperationsCompartment" titleTextColor="Black" itemTextColor="Black" />
