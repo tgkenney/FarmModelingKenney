@@ -680,7 +680,7 @@
                     <literalString
                       Id="4ce03752-e382-4406-8c03-bf7e55eaf176"
                       name="Lower"
-                      value="*" />
+                      value="1" />
                   </lowerValueInternal>
                   <upperValueInternal>
                     <literalString

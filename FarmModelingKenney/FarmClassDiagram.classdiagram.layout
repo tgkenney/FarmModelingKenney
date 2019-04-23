@@ -79,7 +79,7 @@
         <OperationElementListCompartment Id="89127404-02ea-4f27-b546-629f3f5d375b" absoluteBounds="0.515, 6.72617186754942, 1.4700000000000002, 0.2011718675494194" name="OperationsCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <associationConnector edgePoints="[(1.75 : 6.125); (1.75 : 4.84765622516473)]" fixedFrom="NotFixed" fixedTo="NotFixed" customColor="113, 111, 110" sourceMultiplicity="*" targetMultiplicity="*">
+    <associationConnector edgePoints="[(1.75 : 6.125); (1.75 : 4.84765622516473)]" fixedFrom="NotFixed" fixedTo="NotFixed" customColor="113, 111, 110" sourceMultiplicity="1..*" targetMultiplicity="*">
       <associationMoniker Id="8d96ab9b-b299-4ec7-a0c4-fea420406949" />
       <relativeChildShapes />
       <nodes>

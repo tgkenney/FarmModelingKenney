@@ -302,7 +302,7 @@
               <associationHasOwnedEnds>
                 <memberEnd Id="1d9c9c58-d171-4170-94ed-c14910d4b518" name="Roles" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
                   <lowerValueInternal>
-                    <literalString Id="d8ee5bf3-a997-420c-ac92-4ad75986de9c" name="Lower" value="*">
+                    <literalString Id="d8ee5bf3-a997-420c-ac92-4ad75986de9c" name="Lower" value="1">
                       <elementDefinition Id="4ce03752-e382-4406-8c03-bf7e55eaf176" />
                     </literalString>
                   </lowerValueInternal>
