@@ -56,7 +56,7 @@
         <OperationElementListCompartment Id="db57f87e-831d-453e-9b52-bf25ec31ac7a" absoluteBounds="3.14, 6.8863281125823654, 1.4700000000000002, 0.2011718675494194" name="OperationsCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <generalizationConnector edgePoints="[(3.875 : 6.125); (3.875 : 5.22265622516473); (2.25 : 5.22265622516473); (2.25 : 4.84765622516473)]" fixedFrom="NotFixed" fixedTo="NotFixed" customColor="113, 111, 110">
+    <generalizationConnector edgePoints="[(3.875 : 6.125); (3.875 : 5.22265622516473); (2.79838810256148 : 5.22265622516473); (2.79838810256148 : 4.84765622516473)]" fixedFrom="NotFixed" fixedTo="Caller" customColor="113, 111, 110">
       <generalizationMoniker Id="b34bcdae-5b3e-4dc7-8f4f-5c0219381032" />
       <relativeChildShapes />
       <nodes>
